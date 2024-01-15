@@ -29,10 +29,10 @@ const About = () => {
             }
           </div>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non molestie libero, sed scelerisque risus. Integer nec tincidunt metus, a fringilla libero. Nulla dictum odio non molestie vehicula. Nullam id enim ac ipsum porttitor volutpat. Morbi maximus turpis quis dignissim scelerisque. Nunc laoreet quam vel metus varius, quis porttitor mi semper. Ut convallis felis vel ligula egestas posuere. 
+            I am a junior web and mobile developer who completed my studies in Dakar, Senegal. As part of the Erasmus+ program, I spent seven months in Las Palmas, where I furthered my education with a one-month stint at the Technology Institute of the Canarian Islands. Graduating in Dakar, I hold a bachelor's degree in Distributed Application Development.
           </p>
           <p>
-          Pellentesque hendrerit, velit porta elementum varius, nulla felis posuere enim, in viverra nulla massa ut dui. Fusce vulputate condimentum volutpat. Sed et pulvinar eros. Donec placerat nisi nunc. Maecenas efficitur velit sit amet quam tristique, quis ornare orci commodo. Suspendisse potenti. In hac habitasse platea dictumst. 
+            My affinity for technology dates back to my childhood, and this passion has driven my career pursuits. In 2020, I actively participated in a hackathon held in Las Palmas, collaborating with fellow technology enthusiasts. Together, we successfully developed a prototype for an application with the primary objective of contributing to the establishment of Las Palmas as a smart, green island. This experience reflects my commitment to leveraging technology for positive environmental impact and showcases my dedication to innovative solutions.
           </p>
           <a href={CV} download className='btn primary'>Download CV <BsDownload /></a>
         </div>

@@ -5,9 +5,9 @@ import {AiFillAppstore} from 'react-icons/ai'
 
 
 const data = [
-    {
-        id: 1, icon: <SiAdobexd/>, title: 'UI/UX Design', desc: "I create contemporary and user-friendly designs, adhering to industry-standard principles to ensure an enjoyable user experience with your product."
-    },
+    // {
+    //     id: 1, icon: <SiAdobexd/>, title: 'UI/UX Design', desc: "I create contemporary and user-friendly designs, adhering to industry-standard principles to ensure an enjoyable user experience with your product."
+    // },
     {
         id: 2, icon: <RiReactjsLine/>, title: 'Frontend Development', desc: "Your product will have an appealing appearance and will be available on various devices, such as smartphones, tablets, and desktop computers."
     },
