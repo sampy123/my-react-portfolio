@@ -29,10 +29,10 @@ const About = () => {
             }
           </div>
           <p>
-            I am a junior web and mobile developer who completed my studies in Dakar, Senegal. As part of the Erasmus+ program, I spent seven months in Las Palmas, where I furthered my education with a one-month stint at the Technology Institute of the Canarian Islands. Graduating in Dakar, I hold a bachelor's degree in Distributed Application Development.
+            I am a junior web and mobile developer and i completed my studies in Dakar, Senegal. As part of the Erasmus+ program, I spent seven months in Las Palmas, where I furthered my education with a one-month stint at the Technology Institute of the Canarian Islands. Graduating in Dakar, I hold a bachelor's degree in Distributed Application Development.
           </p>
           <p>
-            My affinity for technology dates back to my childhood, and this passion has driven my career pursuits. In 2020, I actively participated in a hackathon held in Las Palmas, collaborating with fellow technology enthusiasts. Together, we successfully developed a prototype for an application with the primary objective of contributing to the establishment of Las Palmas as a smart, green island. This experience reflects my commitment to leveraging technology for positive environmental impact and showcases my dedication to innovative solutions.
+            My affinity for technology dates back to my childhood, and this passion has driven my career pursuits. In 2020, I actively participated in a makeathon held in Las Palmas, collaborating with fellow technology enthusiasts. Together, we successfully developed a prototype for an application with the primary objective of contributing to the establishment of Las Palmas as a smart, green island. This experience reflects my commitment to leveraging technology for positive environmental impact and showcases my dedication to innovative solutions.
           </p>
           <a href={CV} download className='btn primary'>Download CV <BsDownload /></a>
         </div>
