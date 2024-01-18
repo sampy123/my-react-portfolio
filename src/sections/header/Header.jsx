@@ -18,8 +18,7 @@ const Header = () => {
         </div>
         <h3>Sampana Abdou Latif</h3>
         <p data-aos="fade-up">
-        Unlock the potential to bring your envisioned website or web application to 
-        life with a simple click. Share the details of your project, and let's collaborate 
+        Share the details of your project, and let's collaborate 
         to develop a cutting-edge, mobile-responsive, and highly efficient website tailored to your needs!
         </p>
         <div className="header__cta" data-aos="fade-up">
